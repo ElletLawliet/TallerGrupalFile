@@ -1,0 +1,9 @@
+1;Ecuador;ecuador
+2;Rüsía;rusia
+3;Lituania;lituania
+4;Andorra;andorra
+5;Réunion;reunion
+6;Brasil;brasil
+7;cöte di i'vore;cote-di-ivore
+8;Democratic republic of china;democratic-republic-of-china
+9;Sövietíc Union;sovietic-union
